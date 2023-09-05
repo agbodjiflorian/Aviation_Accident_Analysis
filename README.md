@@ -25,3 +25,4 @@ After Data Exploration and Cleansing
 10. Highest number of casualties and Where ?
 11. Date with the highest number of casualties ? (directly affected or not)
 
+![](<images/Aviation analysis - Power BI.png>)
