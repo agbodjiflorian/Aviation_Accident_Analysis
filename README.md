@@ -13,9 +13,8 @@ After Data Exploration and Cleansing
 
 1. Total number of airplane accident ?
 2. Number of companies affected ?
-3.
-- Companies with the lowest number of incidents ?
-- Companies with the highest number of incidents ?
+3. Companies with the lowest number of incidents ?
+  Companies with the highest number of incidents ?
 4. Year, month with the highest number of incidents?
 5. Weekday with the highest number of incidents ?
 6. Date with the highest number of incidents ?
